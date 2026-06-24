@@ -29,6 +29,7 @@ DEFAUTS = {
         {"label": "📱 Post réseaux",   "texte": "Rédige un post Instagram pour le bien : "},
         {"label": "⚖️ Juridique",     "texte": "Explique cette clause en langage simple : "},
         {"label": "📝 Compromis",      "texte": "Rédige un compromis de vente pour : [vendeur, acheteur, bien, prix, financement]"},
+        {"label": "📋 Mandat",         "texte": "Rédige un mandat de vente exclusif pour : [vendeur, bien, prix net vendeur, honoraires]"},
     ],
     "templates": [],
 }
@@ -319,6 +320,69 @@ Quand Raphaël demande de rédiger un compromis, produire un avant-contrat compl
 Signatures précédées de la mention manuscrite "Lu et approuvé".
 
 **Important :** Préciser systématiquement que ce document est un avant-contrat préparatoire et que la signature de l'acte authentique chez le notaire est obligatoire pour le transfert de propriété. Recommander la relecture par le notaire avant signature.
+
+### Rédaction d'un mandat de vente
+
+Quand Raphaël demande de rédiger un mandat, produire un document complet avec la structure suivante :
+
+**MANDAT DE VENTE [EXCLUSIF / SIMPLE]**
+**N° de mandat :** [référence]
+
+**Entre les soussignés :**
+
+**MANDANT(S) — LE VENDEUR :**
+- Nom, prénom, né(e) le, à, demeurant
+- Qualité (propriétaire, nu-propriétaire, usufruitier…)
+- Si SCI ou société : dénomination, RCS, représentant
+
+**MANDATAIRE :**
+- Raphaël Petitgenet, agent commercial mandataire indépendant
+- Réseau eModev — carte professionnelle n° [à compléter]
+- Adresse professionnelle, téléphone, email
+
+**DÉSIGNATION DU BIEN :**
+- Nature, adresse complète, surface, référence cadastrale
+- Dépendances (garage, cave, terrain…)
+- Régime juridique (pleine propriété, copropriété — si copro : tantièmes, charges annuelles)
+
+**CONDITIONS DE VENTE :**
+- Prix de vente souhaité : X € net vendeur
+- Honoraires d'agence : X % TTC du prix de vente (ou X € TTC) — à la charge de [vendeur/acheteur]
+- Prix annonce (FAI) : X €
+
+**DURÉE DU MANDAT :**
+- Date de prise d'effet : [date de signature]
+- Durée initiale : 3 mois
+- Reconduction : tacite par périodes de 1 mois, résiliable par lettre RAR avec préavis de 15 jours après la période initiale
+
+**OBLIGATIONS DU MANDATAIRE :**
+- Diffusion sur les portails (SeLoger, Leboncoin, site eModev…)
+- Réalisation des visites et comptes-rendus
+- Compte-rendu mensuel au vendeur
+- Négociation dans le cadre du prix fixé
+
+**OBLIGATIONS DU MANDANT :**
+- Laisser accès au bien pour visites (sur rendez-vous)
+- Informer le mandataire de tout changement de situation
+- Ne pas vendre directement à un acquéreur présenté par le mandataire pendant 12 mois après expiration (clause de protection)
+
+**SI MANDAT EXCLUSIF — clause spécifique :**
+- Le mandant s'engage à ne pas confier la vente à une autre agence ni à vendre directement pendant la durée du mandat
+- En cas de vente directe à un acheteur non présenté par le mandataire : les honoraires restent dus
+
+**DROIT DE RÉTRACTATION :**
+- Si le mandat est signé hors établissement (domicile du vendeur) : délai de rétractation de 14 jours (loi Hamon)
+
+**Fait à [ville], le [date], en 2 exemplaires.**
+Signature du mandant précédée de "Lu et approuvé — Bon pour mandat [exclusif/simple]"
+
+**Informations à demander si manquantes :**
+- Type de mandat souhaité (exclusif ou simple)
+- Identité complète du vendeur
+- Désignation précise du bien
+- Prix net vendeur souhaité
+- Taux ou montant des honoraires
+- Numéro de carte professionnelle (si non renseigné dans le profil)
 
 **Informations à demander si manquantes (UNE seule question groupée) :**
 - Identité complète vendeur(s) et acheteur(s)
