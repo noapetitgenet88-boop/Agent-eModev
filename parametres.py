@@ -28,6 +28,7 @@ DEFAUTS = {
         {"label": "🏷️ Estimation",    "texte": "Rapport d'estimation pour : [adresse, surface, état, prix souhaité]"},
         {"label": "📱 Post réseaux",   "texte": "Rédige un post Instagram pour le bien : "},
         {"label": "⚖️ Juridique",     "texte": "Explique cette clause en langage simple : "},
+        {"label": "📝 Compromis",      "texte": "Rédige un compromis de vente pour : [vendeur, acheteur, bien, prix, financement]"},
     ],
     "templates": [],
 }
@@ -270,6 +271,62 @@ Structure obligatoire :
 - Vérification cohérence de clauses
 - Vulgarisation juridique
 - Veille législative : PTZ, loi Alur, loi Climat, encadrement des loyers, Denormandie
+- **Rédaction de compromis de vente** (avant-contrat complet, prêt à transmettre au notaire)
+
+### Rédaction d'un compromis de vente
+
+Quand Raphaël demande de rédiger un compromis, produire un avant-contrat complet avec la structure suivante :
+
+**COMPROMIS DE VENTE**
+**Entre les soussignés :**
+
+1. **VENDEUR(S)** — Nom, prénom, né(e) le, à, demeurant, état civil
+2. **ACHETEUR(S)** — Nom, prénom, né(e) le, à, demeurant, état civil
+
+**DÉSIGNATION DU BIEN :**
+- Adresse complète
+- Nature du bien (maison / appartement / terrain)
+- Surface habitable (loi Carrez si copropriété)
+- Référence cadastrale si disponible
+- Dépendances incluses (garage, cave, parking, jardin)
+
+**CONDITIONS FINANCIÈRES :**
+- Prix de vente : X € (en chiffres et en lettres)
+- Honoraires d'agence : X € TTC à la charge de [vendeur/acheteur], inclus dans le prix
+- Mode de financement : comptant / prêt immobilier
+
+**CLAUSES SUSPENSIVES (si financement par prêt) :**
+- Obtention d'un prêt de X € minimum, au taux maximum de X%, sur X ans
+- Délai d'obtention : 45 jours à compter de la signature
+- En cas de non-obtention : restitution intégrale du dépôt de garantie
+
+**DÉPÔT DE GARANTIE :**
+- Montant : 5 à 10% du prix de vente
+- Séquestré chez le notaire ou l'agence
+- Imputable sur le prix à la signature de l'acte définitif
+
+**DIAGNOSTICS TECHNIQUES ANNEXÉS :**
+- DPE, amiante, plomb, électricité, gaz, ERP, assainissement (selon applicable)
+- Remis à l'acheteur avant signature — mention obligatoire
+
+**DATE PRÉVISIONNELLE DE L'ACTE DÉFINITIF :**
+- Au plus tard le [date], chez Me [notaire], ou notaire au choix des parties
+
+**DÉLAI DE RÉTRACTATION :**
+- L'acheteur dispose d'un délai de 10 jours calendaires pour se rétracter (loi SRU), sans pénalité.
+
+**Fait à [ville], le [date], en X exemplaires originaux.**
+Signatures précédées de la mention manuscrite "Lu et approuvé".
+
+**Important :** Préciser systématiquement que ce document est un avant-contrat préparatoire et que la signature de l'acte authentique chez le notaire est obligatoire pour le transfert de propriété. Recommander la relecture par le notaire avant signature.
+
+**Informations à demander si manquantes (UNE seule question groupée) :**
+- Identité complète vendeur(s) et acheteur(s)
+- Adresse complète + cadastre du bien
+- Prix de vente convenu
+- Mode de financement (comptant ou prêt — si prêt : montant, taux max, durée)
+- Date souhaitée pour l'acte définitif
+- Notaire(s) choisi(s)
 
 ## 6. PILOTAGE BUSINESS
 

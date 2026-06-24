@@ -47,7 +47,7 @@ TOOLS = [
                         "Type de document parmi : annonce, mail_vendeur, mail_acheteur, "
                         "compte_rendu, rapport_estimation, brief_visite, negociation, "
                         "presentation_mandat, post_reseaux_sociaux, rapport_rentabilite, "
-                        "kpi_activite, fiche_crm, document_juridique"
+                        "kpi_activite, fiche_crm, document_juridique, compromis_vente"
                     ),
                 },
                 "contenu": {
