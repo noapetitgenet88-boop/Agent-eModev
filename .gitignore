@@ -1,0 +1,14 @@
+# Clé API et données sensibles — ne jamais envoyer sur GitHub
+.env
+memoire.json
+settings.json
+documents_produits/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
